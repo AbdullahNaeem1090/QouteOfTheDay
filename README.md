@@ -23,6 +23,10 @@ A simple web application that fetches and displays random quotes. Users can copy
 3. Click on the **📋 Copy** button to copy the quote.
 4. Click on the **Share on Threads** button to post the quote on Threads.
 
+## Live Demo
+
+Check out the live version of the project here: [Quote of the Day](https://qoute-of-the-day.vercel.app/)
+
 ## Installation & Setup
 
 1. Clone the repository:
@@ -41,4 +45,9 @@ This project fetches quotes from:
 ```
 https://api.freeapi.app/api/v1/public/quotes/quote/random
 ```
+
+## Screenshot
+
+![Quote of the Day Screenshot](https://github.com/AbdullahNaeem1090/QouteOfTheDay/blob/main/Screenshot%202025-03-19%20174201.png?raw=true)
+
 
