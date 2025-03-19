@@ -14,7 +14,7 @@ A simple web application that fetches and displays random quotes. Users can copy
 
 - HTML
 - CSS
-- JavaScript (Vanilla JS)
+- JavaScript
 
 ## How to Use
 
